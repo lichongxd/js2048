@@ -437,7 +437,7 @@ var animation={
                 clearInterval(animation.timer);
                 animation.timer=null;
                 animation.tasks=[];
-                animation.times=10; 
+                animation.times=3; 
             }
         },this.interval);
     }
